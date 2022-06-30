@@ -1,5 +1,9 @@
 # MKT4830_Group3_FinalProject GitHub Documents
 
+   This is a GUI that applies several geometric transformations to the imported images.
+   
+   ![image](https://user-images.githubusercontent.com/50784218/176670283-587428f0-3e95-4894-a5f2-5d156440d41e.png)
+
    To start the program, you can execute "main.exe" file directly. This is an application that is transformed exe file from Python script.
 After starting the program, an command prompt and the GUI will show up. Please do not close the command promt. It is a usual situation and
 it is necessary for working of the GUI. Now you can use your GUI. For importing images you can use a folder directory or an URL. By using buttons 
