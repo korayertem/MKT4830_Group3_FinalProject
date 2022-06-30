@@ -1,4 +1,4 @@
-# MKT4830_Group3_FinalProject GitHub Documents
+# MKT4830-Introduction to Image Processing Group-4 Final Project GitHub Documents
 
    This is a GUI that applies several geometric transformations to the imported images.
    
